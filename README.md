@@ -1,4 +1,4 @@
-# ![favicon-32x32](lab.ssafy.com/s07-bigdata-dist-sub2/S07P22C204/uploads/4944dc5a980a3538a92716548917d7ca/favicon-32x32.png) GGANBU.GG (깐부.GG)
+# ![favicon-32x32](https://lab.ssafy.com/s07-bigdata-dist-sub2/S07P22C204/uploads/4944dc5a980a3538a92716548917d7ca/favicon-32x32.png) GGANBU.GG (깐부.GG)
 빅데이터를 활용한 롤 챔피언 추천
 
 <br/>
