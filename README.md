@@ -118,14 +118,13 @@ feature : 세부 기능을 개발하는 브랜치
 <br/>
 
 - **와이어프레임**(figma)
-
-![KakaoTalk_20221007_180853053](/uploads/758295cbcbf25abae2cba5382ae0ace5/KakaoTalk_20221007_180853053.png)
+![204168205-e9cf70a3-228a-4273-ac26-ecb93dc11013](https://github.com/skagusdn/GGANBU.GG/assets/57717592/390bce12-6180-41b4-8022-7ad37118e4de)
 
 <br/>
 
 - **ERD**
 
-![image](/uploads/5b20fd3e0259ce47136e939d85d5f1fb/image.png)
+![204168221-7a59d46f-3bc8-4ab3-b830-ff7554b26a24](https://github.com/skagusdn/GGANBU.GG/assets/57717592/3e20cb22-3c36-4f3e-a7ca-07d81b069f64)
 
 <br/>
 
