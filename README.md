@@ -189,33 +189,37 @@ feature : 세부 기능을 개발하는 브랜치
 ## 📌주요 기능
 
 ### 홈페이지
-![홈화면-블랙](/uploads/2a2b014197dbd11e75fc784dd4db3848/홈화면-블랙.PNG)
-![홈화면-화이트](/uploads/a4a216cdcae0ad73790631c593f6aeed/홈화면-화이트.PNG)
+![204168273-b602ef37-4130-4b83-90ab-b76eed76c3e4](https://github.com/skagusdn/GGANBU.GG/assets/57717592/5e42ce37-fccf-4e55-a20a-0cc6f2055adb)
+![204168279-6153652a-f07a-42c4-ba4f-e8d60177c362](https://github.com/skagusdn/GGANBU.GG/assets/57717592/1b9d988f-b40c-457b-8bdc-8861daa9a9f5)
 
 ### 챔피언 추천
-![챔피언추천-깐부](/uploads/6bf6e64e8f6403df42a7f8be057c532e/챔피언추천-깐부.PNG)
-![챔피언추천-전체](/uploads/f2b7a46df2dfbfd27edf373383b182ca/챔피언추천-전체.PNG)
-![추천결괴-1](/uploads/e8f65fa3970d1ac00499f396d4a10e06/추천결괴-1.PNG)
-![추천결과-2](/uploads/9eedf792238ebf779e7aa8c1c1bc622d/추천결과-2.PNG)
+![204168313-8267c154-1985-4fda-8fc0-381189d64573](https://github.com/skagusdn/GGANBU.GG/assets/57717592/852f5555-2b77-4c22-8777-d9f126f47495)
+![204168307-383e693d-a353-454b-89d5-d8c8c9b4cc0e](https://github.com/skagusdn/GGANBU.GG/assets/57717592/0b01256f-750c-4039-88ec-e2bff8a2a055)
+![204168333-97ab34a1-c528-4189-abf7-e0f91768ec92](https://github.com/skagusdn/GGANBU.GG/assets/57717592/e757f40d-56e8-49fb-a409-1c1955260675)
+![204168335-3b8e30cf-5d34-4c2b-8185-139ac9335c9a](https://github.com/skagusdn/GGANBU.GG/assets/57717592/2c10b10e-3fb9-4079-9684-f51d7117eefa)
+
 
 #### 챔피언 보기
-![챔피언보기](/uploads/2ba880566b98174d011a4aaf229a0702/챔피언보기.PNG)
-![챔피언보기-단어구름](/uploads/04245755a1dffb78dc79cdb649bdda3b/챔피언보기-단어구름.PNG)
+![204168360-e210314f-b6af-42e3-b069-25603a505d7b](https://github.com/skagusdn/GGANBU.GG/assets/57717592/fec598e0-8bf9-4607-97b6-f5a8d47dab71)
+![204168362-0bbd6bbb-7bf5-4886-96c8-bfa9f91b4bc6](https://github.com/skagusdn/GGANBU.GG/assets/57717592/943710d8-84dc-4deb-9c82-4d9999874ddf)
+
 
 ### 게임
 #### 지역찾기
-![지역찾기](/uploads/13d8a33e05853b8e2dcd13ab2753e7fb/지역찾기.PNG)
-#### 스킬 맞추기
-![스킬맞추기](/uploads/531ca750f5c349d99724155ef6e7254f/스킬맞추기.PNG)
+![204168391-dc247995-71b2-4cac-8247-945cec273592](https://github.com/skagusdn/GGANBU.GG/assets/57717592/72866bd0-69f0-477a-9229-45fd1d2de3c3)
+
+#### 스킬 맞추기![스킬맞추기](/uploads/531ca750f5c349d99724155ef6e7254f/스킬맞추기.PNG)
+![204168412-64d21c8a-55ec-43bc-98ef-6de8a4f3e73d](https://github.com/skagusdn/GGANBU.GG/assets/57717592/89d726c1-1e89-47d7-8ea1-01b84d83e86d)
+
 #### 말파이트 궁피하기
-![궁피하기](/uploads/b75a21db4989eddb9bb7723ccb04d17d/궁피하기.PNG)
+![204168430-e78a707c-ab85-4603-b963-a4c5f4da1dc6](https://github.com/skagusdn/GGANBU.GG/assets/57717592/57375769-801b-4f41-9636-71b329470c3b)
 
 ### 이상형 월드컵
-![이상형월드컵](/uploads/da9ceef86c1c7c6f4fea62f2543f0f90/이상형월드컵.PNG)
-![이상형월드컵-결과](/uploads/4a00d3fd45c62845f5e4202fb9eb33cb/이상형월드컵-결과.PNG)
+![204168451-3178b7de-6918-4b45-8729-8047e41098ed](https://github.com/skagusdn/GGANBU.GG/assets/57717592/b6c8c2cd-361c-4c48-986e-0f4cf657e27c)
+![204168455-bb822ec8-39fc-4e48-877e-71924f118960](https://github.com/skagusdn/GGANBU.GG/assets/57717592/4ca6827a-27a5-4a79-b6fd-ca72a3bac190)
 
 ### 노래
-![음악](/uploads/aef11a5e3ff6b6ce3d1dcd5b00059ac0/음악.PNG)
+![204168476-691b32f5-8662-4478-a683-6c11b881630c](https://github.com/skagusdn/GGANBU.GG/assets/57717592/e2b9fd9a-1662-48f7-b70f-6f593d5a6276)
 
 
 <br/><br/><br/>
@@ -251,7 +255,8 @@ $ docker run -p 4443:4443 --rm -e OPENVIDU_SECRET=MY_SECRET openvidu/openvidu-se
 
 ## ⚙시스템 환경 및 구성
 
-![아키텍쳐_구성도](/uploads/2875e286d6697beb7f1103018bdaf1bb/아키텍쳐_구성도.png)
+![204168500-c91c9175-0e3e-44ce-9ee1-55335b1f2dfb](https://github.com/skagusdn/GGANBU.GG/assets/57717592/37f7b30b-f286-42df-a216-1bc3c97c7cad)
+
 
 - OS: Windows10, Linux
 - Backend Framework: Spring Boot 2.7.1
