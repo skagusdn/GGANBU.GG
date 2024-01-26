@@ -1,5 +1,4 @@
-#![favicon-32x32](https://github.com/skagusdn/GGANBU.GG/assets/57717592/79ab31e3-2853-43c9-af0f-cae79e0bd8ef)
- GGANBU.GG (깐부.GG)
+# ![favicon-32x32](https://github.com/skagusdn/GGANBU.GG/assets/57717592/79ab31e3-2853-43c9-af0f-cae79e0bd8ef) GGANBU.GG (깐부.GG)
 빅데이터를 활용한 롤 챔피언 추천
 
 <br/>
