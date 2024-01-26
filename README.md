@@ -208,7 +208,7 @@ feature : 세부 기능을 개발하는 브랜치
 #### 지역찾기
 ![204168391-dc247995-71b2-4cac-8247-945cec273592](https://github.com/skagusdn/GGANBU.GG/assets/57717592/72866bd0-69f0-477a-9229-45fd1d2de3c3)
 
-#### 스킬 맞추기![스킬맞추기](/uploads/531ca750f5c349d99724155ef6e7254f/스킬맞추기.PNG)
+#### 스킬 맞추기
 ![204168412-64d21c8a-55ec-43bc-98ef-6de8a4f3e73d](https://github.com/skagusdn/GGANBU.GG/assets/57717592/89d726c1-1e89-47d7-8ea1-01b84d83e86d)
 
 #### 말파이트 궁피하기
